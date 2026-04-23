@@ -38,7 +38,7 @@ export default function Nav({ page, setPage, skinType }) {
               letterSpacing: "0.03em",
             }}
           >
-            Lumière
+            SkinSmart
           </span>
           <span
             style={{
@@ -49,7 +49,6 @@ export default function Nav({ page, setPage, skinType }) {
               marginTop: 2,
             }}
           >
-            Skin
           </span>
         </div>
 
