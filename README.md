@@ -1,4 +1,4 @@
-# RUN 'npm install' TO BE ABLE TO DO 'npm run dev'
+# IF NO node_modules: RUN 'npm install' TO BE ABLE TO DO 'npm run dev'
 
 # React + Vite
 
